@@ -52,13 +52,13 @@ h2 {
   }
 
   .text {
+    position: absolute;
+    bottom: 8%;
+    right: 4%;
+    max-width: 20em;
     background-color: rgba(0, 0, 0, .3);
     color: #fff;
     border-radius: 10px;
-    position: absolute;
-    max-width: 20em;
-    bottom: 8%;
-    right: 4%;
   }
 
 }

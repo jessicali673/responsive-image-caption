@@ -33,3 +33,14 @@ body {
   flex-direction: column;
   position: relative;
 }
+
+.text {
+  background-color: #e2e2e2;
+  margin: 0;
+  padding: 0 1.3rem .5rem;
+}
+
+h2 {
+  font-family: "Denk One", sans-serif;
+  font-size: 1.5rem;
+}

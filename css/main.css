@@ -44,3 +44,39 @@ h2 {
   font-family: "Denk One", sans-serif;
   font-size: 1.5rem;
 }
+
+@media only screen and (min-width: 38em) {
+
+  html {
+    font-size: 110%;
+    line-height: 1.4;
+  }
+
+  .text {
+    background-color: rgba(0, 0, 0, .3);
+    color: #fff;
+    border-radius: 10px;
+    position: absolute;
+    max-width: 20em;
+    bottom: 8%;
+    right: 4%;
+  }
+
+}
+
+@media only screen and (min-width: 60em) {
+
+  html {
+    font-size: 120%;
+    line-height: 1.5;
+  }
+
+}
+
+@media only screen and (min-width: 90em) {
+
+  html {
+    font-size: 130%;
+  }
+
+}
